@@ -1,2 +1,4 @@
 animate home page V1
 
+animate about page V2
+
